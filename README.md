@@ -15,4 +15,13 @@ FEATURES:
 
 INSTALLATION:
 
-First Install The <a href="https://github.com/termux/termux-app/releases/download/v0.118.1/termux-app_v0.118.1+github-debug_universal.apk" target="_blank">Termux</a>, <a href="https://github.com/termux/termux-x11/releases/download/nightly/app-universal-debug.apk" target="_blank">Termux X11</a>
+•First Install The <a href="https://github.com/termux/termux-app/releases/download/v0.118.1/termux-app_v0.118.1+github-debug_universal.apk" target="_blank">Termux</a>, <a href="https://github.com/termux/termux-x11/releases/download/nightly/app-universal-debug.apk" target="_blank">Termux X11</a>  
+•Secondly Clone the Repository & Run the setup File  
+
+COMMANDS:  
+
+```bash
+pkg install git -y           
+git clone https://github.com/kvsbuilders/cinnamon-in-termux.git               
+cd cinnamon-in-termux                 
+bash setup.sh                   
