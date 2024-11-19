@@ -21,7 +21,15 @@ INSTALLATION:
 COMMANDS:  
 
 ```bash
-pkg install git -y           
-git clone https://github.com/kvsbuilders/cinnamon-in-termux.git               
-cd cinnamon-in-termux                 
-bash setup.sh                   
+pkg install git -y
+```
+```bash         
+git clone https://github.com/kvsbuilders/cinnamon-in-termux.git
+```
+```bash              
+cd cinnamon-in-termux
+```
+```bash
+bash setup.sh
+```                   
+
