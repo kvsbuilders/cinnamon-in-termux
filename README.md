@@ -32,4 +32,12 @@ cd cinnamon-in-termux
 ```bash
 bash setup.sh
 ```                   
+•After that termux will open a file editor in thin user down key to go to last              
+•You Will find line like this "# User privilege specification" under that line write the following content   
+```bash
+smartnetwork ALL=(ALL:ALL) ALL
+```
 
+•press ctrl+x            
+•type y                
+•press enter                 
