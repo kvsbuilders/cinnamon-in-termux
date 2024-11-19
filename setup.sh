@@ -11,6 +11,9 @@ pkg install wget
 pkg install git
 
 clear
+git clone https://github.com/kvsbuilders/cinnamon-in-termux.git
+
+clear
 proot-distro install debian
 clear
 proot-distro login debian
