@@ -21,3 +21,5 @@ clear
 
 adduser smartnetwork
 clear
+
+nano /etc/sudoers
